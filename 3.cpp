@@ -17,10 +17,10 @@ int main(){
 
         for (int j=0; j<=i; j++){   
 
-            n-i;  // Inner loop will print (*) n-i times in each row 
-                  //   1st row -> n-0
-                  //   2nd row -> n-1 
-                  //   3rd row -> n-2
+            //   i + 1 time print values im each row 
+                  //   1st row -> ( i= 0 )+1
+                  //   2nd row -> ( i= 1 )+1 
+                  //   3rd row -> ( i= 2 )+2
                   //  for all the row's 
 
             cout << "* ";

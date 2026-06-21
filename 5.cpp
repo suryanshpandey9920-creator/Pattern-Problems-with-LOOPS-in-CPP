@@ -17,7 +17,7 @@ int main(){
     for (int i =0 ; i<=n -1;i++){   // Outer loop for lines 
 
 
-            for (int j=1; j<=n ; j++){  // IOne row print n number of value 
+            for (int j=1; j<=n ; j++){  // IOne row print n number of values
 
                 num++;  // Num variable adds value by 1 
                 cout << num;
