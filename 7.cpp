@@ -21,7 +21,7 @@ int main(){
                 // Every line CH get print (i+1) times 
             }
             ch++;
-            // ch get plus after printing in one line  
+            // ch get Updated after One Iteration 
 
         cout << endl;
         
