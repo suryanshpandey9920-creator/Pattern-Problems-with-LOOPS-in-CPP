@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     
-    //  PPyramid Pattern problem 
+    //  Pyramid Pattern problem 
 
     //       1
     //     1 2 1
