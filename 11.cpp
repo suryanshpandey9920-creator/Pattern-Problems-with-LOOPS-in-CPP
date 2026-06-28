@@ -23,7 +23,7 @@ int main() {
         for (int j=1 ; j< i ;j++){
             cout << j ; 
         }
-        // Right angle triangle 
+        // Right angle Reverse triangle 
         for (int k =i; k>0 ;k--){
             cout << k ;
         }
