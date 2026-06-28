@@ -19,7 +19,7 @@ int main(){
 
         cout << endl;  
         // this endl deside that after 1 iteration 
-        // it leave 1 line and 2nd iteration start form another line 
+        
 
     }
 
