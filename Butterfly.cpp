@@ -64,11 +64,11 @@ int main() {
 
 
         // Formula for printing the even spaces but in increasing order 
-        // if(i !=0){ 
+        if(i !=0){ 
            for (int k=0; k<(i*2); k++){
                  cout << " ";
            }
-        // }
+        }
 
         // Inner loop 3 for printing reverse Flyod's triangle 
         for (int k=0; k<n-i; k++){
